@@ -1,0 +1,111 @@
+Starting simulation on Day 0
+
+Spuds Spuds and Spuds Semi-Irregular Report:
+	Most Recent Shipment: 
+		Boxes: 0
+		Potato cost: 0.0
+		Labor (moves): 0
+		Labor cost: 0.0
+		------------------------
+		Total: 0.0
+
+	Overall Expenses: 
+		Boxes: 0
+		Potato cost: 0.0
+		Labor (moves): 0
+		Labor cost: 0.0
+		------------------------
+		Total cost: 0.0
+
+No boxes in the stack - please reorder!
+8 boxes of potatoes are needed
+No potatoes left -- cannot complete order!
+
+The current day is now Day 1
+
+Processing shipment of 4 boxes of potatoes
+Box: Supplier: Bogus  Expires:0  Cost:100.0 is expired
+Box: Supplier: Weasel  Expires:0  Cost:150.0 is expired
+Box: Supplier: Squat  Expires:0  Cost:125.0 is expired
+Box: Supplier: Nada  Expires:0  Cost:100.0 is expired
+Added 0 boxes to the stack 
+
+Spuds Spuds and Spuds Semi-Irregular Report:
+	Most Recent Shipment: 
+		Boxes: 0
+		Potato cost: 0.0
+		Labor (moves): 0
+		Labor cost: 0.0
+		------------------------
+		Total: 0.0
+
+	Overall Expenses: 
+		Boxes: 0
+		Potato cost: 0.0
+		Labor (moves): 0
+		Labor cost: 0.0
+		------------------------
+		Total cost: 0.0
+
+Processing shipment of 5 boxes of potatoes
+Added 5 boxes to the stack 
+
+Here are your boxes (top to bottom): 
+Supplier: Oneth  Expires:1  Cost:5.0
+Supplier: Twoth  Expires:2  Cost:5.0
+Supplier: Threeth  Expires:3  Cost:5.0
+Supplier: Fourth  Expires:4  Cost:5.0
+Supplier: Fiveth  Expires:5  Cost:5.0
+
+Spuds Spuds and Spuds Semi-Irregular Report:
+	Most Recent Shipment: 
+		Boxes: 5
+		Potato cost: 25.0
+		Labor (moves): 13
+		Labor cost: 13.0
+		------------------------
+		Total: 38.0
+
+	Overall Expenses: 
+		Boxes: 5
+		Potato cost: 25.0
+		Labor (moves): 13
+		Labor cost: 13.0
+		------------------------
+		Total cost: 38.0
+
+5 boxes of potatoes are needed
+Getting box: Supplier: Oneth  Expires:1  Cost:5.0  from the stack
+Getting box: Supplier: Twoth  Expires:2  Cost:5.0  from the stack
+Getting box: Supplier: Threeth  Expires:3  Cost:5.0  from the stack
+Getting box: Supplier: Fourth  Expires:4  Cost:5.0  from the stack
+Getting box: Supplier: Fiveth  Expires:5  Cost:5.0  from the stack
+
+Processing shipment of 5 boxes of potatoes
+Added 5 boxes to the stack 
+
+Here are your boxes (top to bottom): 
+Supplier: Oneth  Expires:1  Cost:5.0
+Supplier: Twoth  Expires:2  Cost:5.0
+Supplier: Threeth  Expires:3  Cost:5.0
+Supplier: Fourth  Expires:4  Cost:5.0
+Supplier: Fiveth  Expires:5  Cost:5.0
+
+Spuds Spuds and Spuds Semi-Irregular Report:
+	Most Recent Shipment: 
+		Boxes: 5
+		Potato cost: 25.0
+		Labor (moves): 5
+		Labor cost: 5.0
+		------------------------
+		Total: 30.0
+
+	Overall Expenses: 
+		Boxes: 10
+		Potato cost: 50.0
+		Labor (moves): 18
+		Labor cost: 18.0
+		------------------------
+		Total cost: 68.0
+
+End of Simulation

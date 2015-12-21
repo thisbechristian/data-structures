@@ -1,0 +1,56 @@
+CS 0445 Assignment Information Sheet
+ 
+You must electronically submit an information sheet with every assignment. Also be sure to submit all materials following the procedures described on the submission procedures page.
+
+Name: Christian Boni Assignment #: 1
+
+Lecture Day and Time: T/H 2:30 PM
+
+Recitation Day and Time: H 5:30 PM
+
+Program Due Date: JAN 29 2014
+
+Handed in Date: JAN 29 2014
+
+Source code (.java) file name(s):
+
+Assig1A.java
+Assig1B.java
+Assig1C.java
+Movie.java
+MyDB.java
+Reverser.java
+SaveRestore.java
+SimpleDB.java
+Sorter.java
+
+Other file name(s): 
+movieData.dat
+
+Compiled (.class) file name(s):
+
+Assig1B.class
+Assig1C.class
+Assig1C$1.class
+Assig1C$Listener.class
+Movie.class
+MyDB.class
+Reverser.class
+SaveRestore.class
+SimpleDB.class
+Sorter.class
+
+Does your program compile without error?: yes.
+If not, what is/are the error(s)?:
+
+none.
+
+Does your program run without error?: yes.
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+none.
+
+Additional comments (including problems and extra credit):
+
+I did a GUI interface for the movie database. It is called Assig1C.java
+ 

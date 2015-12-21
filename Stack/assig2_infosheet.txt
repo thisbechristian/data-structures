@@ -1,0 +1,45 @@
+CS 0445 Assignment Information Sheet
+ 
+You must electronically submit an information sheet with every assignment. Also be sure to submit all materials following the procedures described on the submission procedures page.
+
+Name: Christian Boni Assignment #: 2
+
+Lecture Day and Time: T/H 2:30 PM
+
+Recitation Day and Time: H 5:30 PM
+
+Program Due Date: FEB 14 2014
+
+Handed in Date: FEB 13 2014
+
+Source code (.java) file name(s):
+
+ArrayStack.java
+Assig2.java
+Spud.java
+Store.java
+
+Other file name(s): 
+test2-1.txt
+test2-2.txt
+
+Compiled (.class) file name(s):
+
+ArrayStack.class
+Assig2.class
+Spud.class
+Store.class
+
+Does your program compile without error?: yes.
+If not, what is/are the error(s)?:
+
+none.
+
+Does your program run without error?: yes.
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+none.
+
+Additional comments (including problems and extra credit):
+For simplicity, instead of extending StackInterface.java and ArrayStack.java to add the toString(), I just added the toString()
+directly into StackInterface.java and implemented the method in ArrayStack.java. I hope this is okay!

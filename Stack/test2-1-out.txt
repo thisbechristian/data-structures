@@ -1,0 +1,158 @@
+Starting simulation on Day 0
+
+Processing shipment of 7 boxes of potatoes
+Added 7 boxes to the stack 
+
+Spuds Spuds and Spuds Semi-Irregular Report:
+	Most Recent Shipment: 
+		Boxes: 7
+		Potato cost: 34.5
+		Labor (moves): 19
+		Labor cost: 19.0
+		------------------------
+		Total: 53.5
+
+	Overall Expenses: 
+		Boxes: 7
+		Potato cost: 34.5
+		Labor (moves): 19
+		Labor cost: 19.0
+		------------------------
+		Total cost: 53.5
+
+Here are your boxes (top to bottom): 
+Supplier: Tuber Town  Expires:3  Cost:4.0
+Supplier: Herb's House of Spuds  Expires:4  Cost:5.0
+Supplier: Potato Pot  Expires:4  Cost:6.0
+Supplier: Herb's House of Spuds  Expires:5  Cost:5.0
+Supplier: Potato Pot  Expires:6  Cost:6.0
+Supplier: Tuber Town  Expires:8  Cost:4.0
+Supplier: Spud Heaven  Expires:8  Cost:4.5
+
+2 boxes of potatoes are needed
+Getting box: Supplier: Tuber Town  Expires:3  Cost:4.0  from the stack
+Getting box: Supplier: Herb's House of Spuds  Expires:4  Cost:5.0  from the stack
+
+Here are your boxes (top to bottom): 
+Supplier: Potato Pot  Expires:4  Cost:6.0
+Supplier: Herb's House of Spuds  Expires:5  Cost:5.0
+Supplier: Potato Pot  Expires:6  Cost:6.0
+Supplier: Tuber Town  Expires:8  Cost:4.0
+Supplier: Spud Heaven  Expires:8  Cost:4.5
+
+The current day is now Day 1
+
+Processing shipment of 6 boxes of potatoes
+Added 6 boxes to the stack 
+
+Spuds Spuds and Spuds Semi-Irregular Report:
+	Most Recent Shipment: 
+		Boxes: 6
+		Potato cost: 28.0
+		Labor (moves): 24
+		Labor cost: 24.0
+		------------------------
+		Total: 52.0
+
+	Overall Expenses: 
+		Boxes: 13
+		Potato cost: 62.5
+		Labor (moves): 43
+		Labor cost: 43.0
+		------------------------
+		Total cost: 105.5
+
+Here are your boxes (top to bottom): 
+Supplier: Spud Heaven  Expires:3  Cost:4.5
+Supplier: Tuber Town  Expires:3  Cost:4.0
+Supplier: SpudsRUs  Expires:3  Cost:4.0
+Supplier: Potato Pot  Expires:4  Cost:5.0
+Supplier: Potato Pot  Expires:4  Cost:6.0
+Supplier: Herb's House of Spuds  Expires:5  Cost:5.0
+Supplier: Potato Pot  Expires:6  Cost:6.0
+Supplier: Tuber Town  Expires:8  Cost:4.0
+Supplier: Spud Heaven  Expires:8  Cost:4.5
+Supplier: Perry's Potatoes  Expires:9  Cost:5.5
+Supplier: Potato Pot  Expires:10  Cost:5.0
+
+The current day is now Day 2
+
+The current day is now Day 3
+
+1 boxes of potatoes are needed
+Getting box: Supplier: Spud Heaven  Expires:3  Cost:4.5  from the stack
+
+The current day is now Day 4
+Top box: Supplier: Tuber Town  Expires:3  Cost:4.0 is expired!
+Top box: Supplier: SpudsRUs  Expires:3  Cost:4.0 is expired!
+
+Here are your boxes (top to bottom): 
+Supplier: Potato Pot  Expires:4  Cost:5.0
+Supplier: Potato Pot  Expires:4  Cost:6.0
+Supplier: Herb's House of Spuds  Expires:5  Cost:5.0
+Supplier: Potato Pot  Expires:6  Cost:6.0
+Supplier: Tuber Town  Expires:8  Cost:4.0
+Supplier: Spud Heaven  Expires:8  Cost:4.5
+Supplier: Perry's Potatoes  Expires:9  Cost:5.5
+Supplier: Potato Pot  Expires:10  Cost:5.0
+
+Processing shipment of 4 boxes of potatoes
+Box: Supplier: Potato Pot  Expires:3  Cost:5.0 is expired
+Added 3 boxes to the stack 
+
+Here are your boxes (top to bottom): 
+Supplier: Potato Pot  Expires:4  Cost:5.0
+Supplier: Potato Pot  Expires:4  Cost:5.0
+Supplier: Potato Pot  Expires:4  Cost:6.0
+Supplier: Potato Pot  Expires:5  Cost:5.0
+Supplier: Herb's House of Spuds  Expires:5  Cost:5.0
+Supplier: Potato Pot  Expires:6  Cost:5.0
+Supplier: Potato Pot  Expires:6  Cost:6.0
+Supplier: Tuber Town  Expires:8  Cost:4.0
+Supplier: Spud Heaven  Expires:8  Cost:4.5
+Supplier: Perry's Potatoes  Expires:9  Cost:5.5
+Supplier: Potato Pot  Expires:10  Cost:5.0
+
+The current day is now Day 5
+Top box: Supplier: Potato Pot  Expires:4  Cost:5.0 is expired!
+Top box: Supplier: Potato Pot  Expires:4  Cost:5.0 is expired!
+Top box: Supplier: Potato Pot  Expires:4  Cost:6.0 is expired!
+
+3 boxes of potatoes are needed
+Getting box: Supplier: Potato Pot  Expires:5  Cost:5.0  from the stack
+Getting box: Supplier: Herb's House of Spuds  Expires:5  Cost:5.0  from the stack
+Getting box: Supplier: Potato Pot  Expires:6  Cost:5.0  from the stack
+
+Processing shipment of 5 boxes of potatoes
+Box: Supplier: Spud Heaven  Expires:4  Cost:5.0 is expired
+Box: Supplier: Herb's House of Spuds  Expires:3  Cost:4.0 is expired
+Added 3 boxes to the stack 
+
+Here are your boxes (top to bottom): 
+Supplier: Tuber Town  Expires:6  Cost:4.5
+Supplier: Potato Pot  Expires:6  Cost:6.0
+Supplier: Tuber Town  Expires:8  Cost:5.0
+Supplier: Tuber Town  Expires:8  Cost:4.0
+Supplier: Spud Heaven  Expires:8  Cost:4.5
+Supplier: SpudsRUs  Expires:9  Cost:4.0
+Supplier: Perry's Potatoes  Expires:9  Cost:5.5
+Supplier: Potato Pot  Expires:10  Cost:5.0
+
+Spuds Spuds and Spuds Semi-Irregular Report:
+	Most Recent Shipment: 
+		Boxes: 3
+		Potato cost: 13.5
+		Labor (moves): 13
+		Labor cost: 13.0
+		------------------------
+		Total: 26.5
+
+	Overall Expenses: 
+		Boxes: 19
+		Potato cost: 91.0
+		Labor (moves): 69
+		Labor cost: 69.0
+		------------------------
+		Total cost: 160.0
+
+End of Simulation

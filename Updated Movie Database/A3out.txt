@@ -1,0 +1,39 @@
+Here is the DB: 
+20 50 50 30 20 20 80 30 50 10 30 30 80 60 50 20 30 30 70 60 
+The mode is: 	Data: 30	Freq: 6
+The data is not sorted
+Sorting the data...
+Here is the DB: 
+10 20 20 20 20 30 30 30 30 30 30 50 50 50 50 60 60 70 80 80 
+The data is sorted
+The mode is: 	Data: 30	Freq: 6
+
+Here is the DB: 
+Bart Gert Gert Mort Mort Mort Marge Marge Marge Marge Herb Herb Herb Herb Herb 
+The mode is: 	Data: Herb	Freq: 5
+The data is not sorted
+Sorting the data...
+Here is the DB: 
+Bart Gert Gert Herb Herb Herb Herb Herb Marge Marge Marge Marge Mort Mort Mort 
+The data is sorted
+The mode is: 	Data: Herb	Freq: 5
+
+Here is the DB: 
+10 10 10 10 20 30 40 40 40 40 40 50 50 50 60 70 80 90 
+The mode is: 	Data: 40	Freq: 5
+The data is sorted
+Sorting the data...
+Here is the DB: 
+10 10 10 10 20 30 40 40 40 40 40 50 50 50 60 70 80 90 
+The data is sorted
+The mode is: 	Data: 40	Freq: 5
+
+Here is the DB: 
+Herb Marge Fritz Herb Marge Fritz Herb Marge Fritz Herb Marge Fritz 
+The mode is: 	Data: Herb	Freq: 4
+The data is not sorted
+Sorting the data...
+Here is the DB: 
+Fritz Fritz Fritz Fritz Herb Herb Herb Herb Marge Marge Marge Marge 
+The data is sorted
+The mode is: 	Data: Fritz	Freq: 4

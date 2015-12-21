@@ -1,0 +1,61 @@
+0 added to DB
+2 added to DB
+4 added to DB
+6 added to DB
+Resizing to 8
+8 added to DB
+10 added to DB
+12 added to DB
+14 added to DB
+Resizing to 16
+16 added to DB
+18 added to DB
+2 added to DB
+
+The DB has been saved
+The DB has been cleared
+The DB has 0 items
+The DB is empty
+DB restored
+The DB has 11 items
+
+6 was found in the DB
+3 was not found
+7 was not found
+2 was found in the DB
+14 was found in the DB
+15 was not found
+10 was found in the DB
+2 was found in the DB
+6 was found in the DB
+
+6 was removed from the DB
+3 was not found
+7 was not found
+2 was removed from the DB
+14 was removed from the DB
+15 was not found
+10 was removed from the DB
+2 was removed from the DB
+6 was not found
+
+Here is the DB: 
+0 4 8 12 16 18 
+There are 6 items in the DB
+
+Here is the DB: 
+Fezzik Inigo Humperdinck Roberts Buttercup Vizzini Rugen 
+Reversing the data...
+Here is the DB: 
+Rugen Vizzini Buttercup Roberts Humperdinck Inigo Fezzik 
+Sorting the data...
+Here is the DB: 
+Buttercup Fezzik Humperdinck Inigo Roberts Rugen Vizzini 
+Here is the DB: 
+Buttercup Fezzik Inigo Roberts Vizzini Max 
+Reversing the data...
+Here is the DB: 
+Max Vizzini Inigo Roberts Fezzik Buttercup 
+Sorting the data...
+Here is the DB: 
+Buttercup Fezzik Inigo Max Roberts Vizzini 
